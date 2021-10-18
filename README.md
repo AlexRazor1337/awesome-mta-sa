@@ -36,9 +36,9 @@ List of free/opensource MTA:SA resources.
 - [Beautify](https://github.com/ov-sa/Beautify-Library) -  DX based powerful UI library.
 - [editor_addon_lights](https://github.com/patrikjuvonen/editor_addon_lights) - add Ren712 lights using default editor.
 - [MTA_2FA-lib](https://github.com/Inder00/MTA_2FA-lib) - Two factor auth library.
-- (mtasa-resource-compiler)[https://github.com/cleoppa/mtasa-resource-compiler] - Encrypt all files on your resource. 
-- (mtasa-git-resource-updater)[https://github.com/cleoppa/mtasa-git-resource-updater] - Welcome, with this module, you can remotely update the system you publish on GitHub.
-- (MTA rounded rectang)[https://github.com/prndv/MTA_rounded_rectangle] - Create rounded rectangles.
+- [mtasa-resource-compiler](https://github.com/cleoppa/mtasa-resource-compiler) - Encrypt all files on your resource. 
+- [mtasa-git-resource-updater](https://github.com/cleoppa/mtasa-git-resource-updater) - Welcome, with this module, you can remotely update the system you publish on GitHub.
+- [MTA rounded rectangle](https://github.com/prndv/MTA_rounded_rectangle) - Create rounded rectangles.
 
 ## Resource collections
 
@@ -69,4 +69,4 @@ List of free/opensource MTA:SA resources.
 - [Arthemida](https://github.com/NtKernelMC/Arthemida) - AntiCheat Module for MTA:SA.
 - [mta-gb](https://github.com/MegadreamsBE/mta-gb) - Game Boy emulator for Multi Theft Auto.
 - [mta-discord-rpc](https://github.com/pkfln/mta-discord-rpc) - External MTA Discord Rich Presence Manager 
-- (MTA Resource Tool)[https://github.com/AlexRazor1337/MTA-Resource-Tool] - Tool written on Python to help you work with MTA resources.
+- [MTA Resource Tool](https://github.com/AlexRazor1337/MTA-Resource-Tool) - Tool written on Python to help you work with MTA resources.
