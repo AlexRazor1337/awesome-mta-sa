@@ -24,6 +24,7 @@ To add any resource just create pull request. It should be opensource or at leas
 - [aibots](https://github.com/DimDey/aibots) - A resource for manipulating and creating an artificial player who can shoot, chase or search for his target.
 - [lockpick](https://github.com/httpRick/lockpick) - Lockpicking mechanics like from other games.
 - [gradmin](https://github.com/rifleh700/gradmin) - Alternative admin panel for MTA:SA.
+- [SA Menu](https://github.com/httpRick/SA-Menu) - GTA:SA like menu.
 
 ## Shaders
 
