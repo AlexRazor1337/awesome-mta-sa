@@ -43,6 +43,7 @@ To add any resource just create pull request. It must be hosted on GitHub or Git
 - [mtasa-resource-compiler](https://github.com/cleoppa/mtasa-resource-compiler) - Encrypt all files on your resource. 
 - [mtasa-git-resource-updater](https://github.com/cleoppa/mtasa-git-resource-updater) - Remotely update the system you publish on GitHub.
 - [MTA rounded rectangle](https://github.com/prndv/MTA_rounded_rectangle) - Create rounded rectangles.
+- [dgs](https://github.com/thisdp/dgs) - Thisdp's Dx Graphical User Interface System.
 
 ## Resource collections
 
