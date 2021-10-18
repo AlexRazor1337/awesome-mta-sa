@@ -92,5 +92,5 @@ To add any resource just create pull request. It should be opensource or at leas
 - [mta-discord-rpc](https://github.com/pkfln/mta-discord-rpc) - External MTA Discord Rich Presence Manager 
 - [MTA Resource Tool](https://github.com/AlexRazor1337/MTA-Resource-Tool) - Tool written on Python to help you work with MTA resources.
 - [vscode-mtalua](https://github.com/Subtixx/vscode-mtalua) - MTA functions autocompletion and highlighting for VS Code. Version from VS Code is outdated, use this instead.
-- [https://github.com/Vadya963/50pSublimeText3Package](https://github.com/Vadya963/50pSublimeText3Package) - MTA functions autocompletion and highlighting for Sublime Text.
+- [updated 50pSublimeText3Package](https://github.com/Vadya963/50pSublimeText3Package) - MTA functions autocompletion and highlighting for Sublime Text.
 
