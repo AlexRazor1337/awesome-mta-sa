@@ -24,7 +24,7 @@ To add any resource just create pull request. It should be opensource or at leas
 - [aibots](https://github.com/DimDey/aibots) - A resource for manipulating and creating an artificial player who can shoot, chase or search for his target.
 - [lockpick](https://github.com/httpRick/lockpick) - Lockpicking mechanics like from other games.
 - [gradmin](https://github.com/rifleh700/gradmin) - Alternative admin panel for MTA:SA.
-- [SA Menu](https://github.com/httpRick/SA-Menu) - GTA:SA like menu.
+- [mtasa remastered hud](https://github.com/Haxardous/mtasa-remastered-hud) - HD remastered original HUD.
 
 ## Shaders
 
@@ -48,6 +48,11 @@ To add any resource just create pull request. It should be opensource or at leas
 - [dgs](https://github.com/thisdp/dgs) - Thisdp's Dx Graphical User Interface System.
 - [mtasa-utilities](https://github.com/Loki214/mtasa-utilities) - some utilities.
 - [MTA Stream](https://github.com/Wolfee-J/MTA-Stream) - MTA-SA Custom map loader.
+- [check](https://github.com/rifleh700/check) - Simple Lua/MTA argument type checking lib for MTA:SA.
+- [MTA Indicators](https://github.com/forkerer/MTA-indicators) - Indicators system written in lua, able to display hundreds of indicators without lags. 
+- [MTA Escalator](https://github.com/jayceon123/mta-escalator) - Reverse Engineered GTA:SA Escalators in Lua.
+- [SA Menu](https://github.com/httpRick/SA-Menu) - GTA:SA like menu.
+- [MTASA NativeUI](https://github.com/Allerek/MTASA-NativeUI) - GTA:V style menus.
 
 ## Resource collections
 
@@ -55,6 +60,7 @@ To add any resource just create pull request. It should be opensource or at leas
 - [mtapub](https://github.com/truestm/mtapub) - Collection of various MTA resources by stm.
 - [mtasa-resources](https://github.com/multitheftauto/mtasa-resources) - List of up-to-date resources that come with Multi Theft Auto. 
 - [crystalmv-resources](https://github.com/jlillis/crystalmv-resources) - A collection of MTA:SA resources by CrystalMV. 
+- [Mr.Green-MTA-Resources](https://github.com/MrGreenGaming/MTA-Resources) - All resources used on the Mr. Green Gaming MTA servers (Race & Race Mix). 
 
 ## Gamemodes
 
