@@ -44,6 +44,7 @@ To add any resource just create pull request. It must be hosted on GitHub or Git
 - [mtasa-git-resource-updater](https://github.com/cleoppa/mtasa-git-resource-updater) - Remotely update the system you publish on GitHub.
 - [MTA rounded rectangle](https://github.com/prndv/MTA_rounded_rectangle) - Create rounded rectangles.
 - [dgs](https://github.com/thisdp/dgs) - Thisdp's Dx Graphical User Interface System.
+- [mtasa-utilities](https://github.com/Loki214/mtasa-utilities) - some utilities.
 
 ## Resource collections
 
@@ -60,6 +61,9 @@ To add any resource just create pull request. It must be hosted on GitHub or Git
 - [XyzzyRP](https://github.com/lpiob/MTA-XyzzyRP) - RP gamemode  for MTA, written mainly in LUA, based on the MySQL database.
 - [OwlGamingCommunity MTA](https://github.com/OwlGamingCommunity/MTA) - OwlGaming roleplay server.
 - [MTA War](https://github.com/Wolfee-J/MTA_War) - Halo inspired gamemode.
+- [Drift Paradise](https://github.com/alcoholiclobster/drift-paradise-mta) - Racing roleplay gamemode for Multi Theft Auto.
+- [Rust MTA](https://github.com/alcoholiclobster/rust-mta) - Rust inspired gamemode
+- [mtadayz](https://github.com/NullSystemWorks/mtadayz) - Official MTA:DayZ Repository.
 
 ## Lua
 
