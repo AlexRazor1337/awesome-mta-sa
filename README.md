@@ -14,6 +14,7 @@ To add any resource just create pull request. It must be hosted on GitHub or Git
 - [Shaders](#shaders)
 - [Libs and utils](#libs-and-utils)
 - [Gamemodes](#gamemodes)
+- [Maps](#maps)
 - [Lua](#lua)
 - [Other](#other)
 
@@ -45,6 +46,7 @@ To add any resource just create pull request. It must be hosted on GitHub or Git
 - [MTA rounded rectangle](https://github.com/prndv/MTA_rounded_rectangle) - Create rounded rectangles.
 - [dgs](https://github.com/thisdp/dgs) - Thisdp's Dx Graphical User Interface System.
 - [mtasa-utilities](https://github.com/Loki214/mtasa-utilities) - some utilities.
+- [MTA Stream](https://github.com/Wolfee-J/MTA-Stream) - MTA-SA Custom map loader.
 
 ## Resource collections
 
@@ -65,6 +67,15 @@ To add any resource just create pull request. It must be hosted on GitHub or Git
 - [Rust MTA](https://github.com/alcoholiclobster/rust-mta) - Rust inspired gamemode
 - [mtadayz](https://github.com/NullSystemWorks/mtadayz) - Official MTA:DayZ Repository.
 
+## Maps
+
+- [MTA-map mafia2](https://github.com/Vadya963/MTA-map_mafia2) - Mafia 2 map convert to MTA.
+- [JLiberty City](https://github.com/Wolfee-J/JLiberty-City) - Liberty City map for use with [MTA Stream](https://github.com/Wolfee-J/MTA-Stream)
+- [JVice City](https://github.com/Wolfee-J/MTA-Vice-City) - Vice City map for use with [MTA Stream](https://github.com/Wolfee-J/MTA-Stream)
+- [JGrid Map](https://github.com/Wolfee-J/JGrid-Map) - Grid Testing map for use with [MTA Stream](https://github.com/Wolfee-J/MTA-Stream)
+- [Alien City](https://github.com/Wolfee-J/Alien-City-MTA) - Alien City map for use with [MTA Stream](https://github.com/Wolfee-J/MTA-Stream)
+- [JGrand Carmageddon](https://github.com/Wolfee-J/JGrand-Carmageddon) - Grand Carmageddon map for use with [MTA Stream](https://github.com/Wolfee-J/MTA-Stream)
+
 ## Lua
 
 - [lume](https://github.com/rxi/lume) - Lua functions geared towards gamedev.
@@ -81,4 +92,4 @@ To add any resource just create pull request. It must be hosted on GitHub or Git
 - [MTA Resource Tool](https://github.com/AlexRazor1337/MTA-Resource-Tool) - Tool written on Python to help you work with MTA resources.
 - [vscode-mtalua](https://github.com/Subtixx/vscode-mtalua) - MTA functions autocompletion and highlighting for VS Code. Version from VS Code is outdated, use this instead.
 - [https://github.com/Vadya963/50pSublimeText3Package](https://github.com/Vadya963/50pSublimeText3Package) - MTA functions autocompletion and highlighting for Sublime Text.
-- [MTA-map_mafia2](https://github.com/Vadya963/MTA-map_mafia2) - Mafia 2 map convert to MTA.
+
