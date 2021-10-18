@@ -4,6 +4,10 @@
 
 List of free/opensource MTA:SA resources.  
 
+## Contributing
+
+To add any resource just create pull request. Links must point only to the GitHub or Gitlab.
+
 ## Contents 
 
 - [Resources](#resources)
