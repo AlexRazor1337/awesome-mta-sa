@@ -87,6 +87,7 @@ To add any resource just create pull request. It should be opensource or at leas
 
 - [lume](https://github.com/rxi/lume) - Lua functions geared towards gamedev.
 - [batteries](https://github.com/1bardesign/batteries) - Reusable dependencies for games made with lua.
+- [lua-class](https://github.com/misterquestions/lua-class) - A library to add support for OOP on Lua with a really nice and elegant style 
 
 ## Other
 
@@ -99,4 +100,4 @@ To add any resource just create pull request. It should be opensource or at leas
 - [MTA Resource Tool](https://github.com/AlexRazor1337/MTA-Resource-Tool) - Tool written on Python to help you work with MTA resources.
 - [vscode-mtalua](https://github.com/Subtixx/vscode-mtalua) - MTA functions autocompletion and highlighting for VS Code. Version from VS Code is outdated, use this instead.
 - [updated 50pSublimeText3Package](https://github.com/Vadya963/50pSublimeText3Package) - MTA functions autocompletion and highlighting for Sublime Text.
-
+- [MTA Resource Generator](https://github.com/matheustkn/MTA-Resource-Generator) - Simple application to create blank resource for MTA:SA. 
