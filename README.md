@@ -94,7 +94,6 @@ To add any resource just create pull request. It should be opensource or at leas
 - [mtasa-typescript](https://github.com/mtasa-typescript) - Typescript support for MTA.
 - [Slipe](https://github.com/mta-slipe/Slipe-Core) - C# support for MTA.
 - [Slipe Server](https://github.com/mta-slipe/Slipe-Server) - C# implementation of an MTA San Andreas Server.
-- [Arthemida](https://github.com/NtKernelMC/Arthemida) - AntiCheat Module for MTA:SA.
 - [mta-gb](https://github.com/MegadreamsBE/mta-gb) - Game Boy emulator for Multi Theft Auto.
 - [mta-discord-rpc](https://github.com/pkfln/mta-discord-rpc) - External MTA Discord Rich Presence Manager 
 - [MTA Resource Tool](https://github.com/AlexRazor1337/MTA-Resource-Tool) - Tool written on Python to help you work with MTA resources.
