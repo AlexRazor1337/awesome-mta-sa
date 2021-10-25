@@ -100,3 +100,4 @@ To add any resource just create pull request. It should be opensource or at leas
 - [vscode-mtalua](https://github.com/Subtixx/vscode-mtalua) - MTA functions autocompletion and highlighting for VS Code. Version from VS Code is outdated, use this instead.
 - [updated 50pSublimeText3Package](https://github.com/Vadya963/50pSublimeText3Package) - MTA functions autocompletion and highlighting for Sublime Text.
 - [MTA Resource Generator](https://github.com/matheustkn/MTA-Resource-Generator) - Simple application to create blank resource for MTA:SA. 
+- [amx](https://github.com/multitheftauto/amx) - Allows the execution of unmodified SAMP 0.3.7 gamemodes, filterscripts and plugins.
