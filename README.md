@@ -25,7 +25,7 @@ To add any resource just create pull request. It should be opensource or at leas
 - [lockpick](https://github.com/httpRick/lockpick) - Lockpicking mechanics like from other games.
 - [gradmin](https://github.com/rifleh700/gradmin) - Alternative admin panel for MTA:SA.
 - [mtasa remastered hud](https://github.com/Haxardous/mtasa-remastered-hud) - HD remastered original HUD.
-
+- [draw-distance](https://gitlab.com/IIYAMA12/draw-distance) - improves the draw distance of all your resources that make use of map files. 
 ## Shaders
 
 - [MTA-VHS](https://github.com/gta191977649/MTA-VHS) - a VHS effect.
@@ -101,3 +101,4 @@ To add any resource just create pull request. It should be opensource or at leas
 - [updated 50pSublimeText3Package](https://github.com/Vadya963/50pSublimeText3Package) - MTA functions autocompletion and highlighting for Sublime Text.
 - [MTA Resource Generator](https://github.com/matheustkn/MTA-Resource-Generator) - Simple application to create blank resource for MTA:SA. 
 - [amx](https://github.com/multitheftauto/amx) - Allows the execution of unmodified SAMP 0.3.7 gamemodes, filterscripts and plugins.
+- [MTA SA Tarantool usage example](https://forum.mtasa.com/topic/131195-tarantool-use-case-and-workaround) - usage of DODBMS Tarantool in MTA
