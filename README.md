@@ -35,9 +35,11 @@ To add any resource just create pull request. It should be free and opensource.
 - [gradmin](https://github.com/rifleh700/gradmin) - Alternative admin panel for MTA:SA.
 - [mtasa remastered hud](https://github.com/Haxardous/mtasa-remastered-hud) - HD remastered original HUD.
 - [draw-distance](https://gitlab.com/IIYAMA12/draw-distance) - Improves the draw distance of all your resources that make use of map files. 
+
 ## Shaders
 
 - [MTA-VHS](https://github.com/gta191977649/MTA-VHS) - A VHS effect shader.
+- [MTA-PS2](https://github.com/gta191977649/MTA-PS2) - PS2-like shader for MTA:SA.
 
 ## Libs and utils
 
@@ -62,6 +64,7 @@ To add any resource just create pull request. It should be free and opensource.
 - [MTA Escalator](https://github.com/jayceon123/mta-escalator) - Reverse Engineered GTA:SA Escalators in Lua.
 - [SA Menu](https://github.com/httpRick/SA-Menu) - GTA:SA like menu.
 - [MTASA NativeUI](https://github.com/Allerek/MTASA-NativeUI) - GTA:V style menus.
+- [custom-data](https://github.com/srslyyyy/custom-data) - Custom element data system based on Lua tables.
 
 ## Resource collections
 
@@ -111,3 +114,4 @@ To add any resource just create pull request. It should be free and opensource.
 - [MTA Resource Generator](https://github.com/matheustkn/MTA-Resource-Generator) - Simple application to create blank resource for MTA:SA. 
 - [amx](https://github.com/multitheftauto/amx) - Allows the execution of unmodified SAMP 0.3.7 gamemodes, filterscripts and plugins.
 - [MTA SA Tarantool usage example](https://forum.mtasa.com/topic/131195-tarantool-use-case-and-workaround) - Example of usage of DODBMS Tarantool in MTA.
+- [mtasa-docker](https://github.com/4O4/mtasa-docker) - Unofficial Docker image for MTA:SA game server.
