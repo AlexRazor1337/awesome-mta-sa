@@ -34,10 +34,10 @@ To add any resource just create pull request. It should be free and opensource.
 - [lockpick](https://github.com/httpRick/lockpick) - Lockpicking mechanics like from other games.
 - [gradmin](https://github.com/rifleh700/gradmin) - Alternative admin panel for MTA:SA.
 - [mtasa remastered hud](https://github.com/Haxardous/mtasa-remastered-hud) - HD remastered original HUD.
-- [draw-distance](https://gitlab.com/IIYAMA12/draw-distance) - improves the draw distance of all your resources that make use of map files. 
+- [draw-distance](https://gitlab.com/IIYAMA12/draw-distance) - Improves the draw distance of all your resources that make use of map files. 
 ## Shaders
 
-- [MTA-VHS](https://github.com/gta191977649/MTA-VHS) - a VHS effect.
+- [MTA-VHS](https://github.com/gta191977649/MTA-VHS) - A VHS effect shader.
 
 ## Libs and utils
 
@@ -49,13 +49,13 @@ To add any resource just create pull request. It should be free and opensource.
 - [CRenderTarget-MTA](https://github.com/XaskeL/CRenderTarget-MTA) - RenderTarget helper lib.
 - [pAttach](https://github.com/Patrick2562/mtasa-pAttach) - Optimized bone attach using new MTA functions/events. 
 - [Beautify](https://github.com/ov-sa/Beautify-Library) -  DX based powerful UI library.
-- [editor_addon_lights](https://github.com/patrikjuvonen/editor_addon_lights) - add Ren712 lights using default editor.
+- [editor_addon_lights](https://github.com/patrikjuvonen/editor_addon_lights) - Add Ren712 lights using a default map editor.
 - [MTA_2FA-lib](https://github.com/Inder00/MTA_2FA-lib) - Two factor auth library.
 - [mtasa-resource-compiler](https://github.com/cleoppa/mtasa-resource-compiler) - Encrypt all files on your resource. 
 - [mtasa-git-resource-updater](https://github.com/cleoppa/mtasa-git-resource-updater) - Remotely update the system you publish on GitHub.
 - [MTA rounded rectangle](https://github.com/prndv/MTA_rounded_rectangle) - Create rounded rectangles.
 - [dgs](https://github.com/thisdp/dgs) - Thisdp's Dx Graphical User Interface System.
-- [mtasa-utilities](https://github.com/Loki214/mtasa-utilities) - some utilities.
+- [mtasa-utilities](https://github.com/Loki214/mtasa-utilities) - Some utilities(graphics, perlin noise, sockets...).
 - [MTA Stream](https://github.com/Wolfee-J/MTA-Stream) - MTA-SA Custom map loader.
 - [check](https://github.com/rifleh700/check) - Simple Lua/MTA argument type checking lib for MTA:SA.
 - [MTA Indicators](https://github.com/forkerer/MTA-indicators) - Indicators system written in lua, able to display hundreds of indicators without lags. 
@@ -80,7 +80,7 @@ To add any resource just create pull request. It should be free and opensource.
 - [OwlGamingCommunity MTA](https://github.com/OwlGamingCommunity/MTA) - OwlGaming roleplay server.
 - [MTA War](https://github.com/Wolfee-J/MTA_War) - Halo inspired gamemode.
 - [Drift Paradise](https://github.com/alcoholiclobster/drift-paradise-mta) - Racing roleplay gamemode for Multi Theft Auto.
-- [Rust MTA](https://github.com/alcoholiclobster/rust-mta) - Rust inspired gamemode
+- [Rust MTA](https://github.com/alcoholiclobster/rust-mta) - Rust inspired gamemode.
 - [mtadayz](https://github.com/NullSystemWorks/mtadayz) - Official MTA:DayZ Repository.
 
 ## Maps
@@ -104,10 +104,10 @@ To add any resource just create pull request. It should be free and opensource.
 - [Slipe](https://github.com/mta-slipe/Slipe-Core) - C# support for MTA.
 - [Slipe Server](https://github.com/mta-slipe/Slipe-Server) - C# implementation of an MTA San Andreas Server.
 - [mta-gb](https://github.com/MegadreamsBE/mta-gb) - Game Boy emulator for Multi Theft Auto.
-- [mta-discord-rpc](https://github.com/pkfln/mta-discord-rpc) - External MTA Discord Rich Presence Manager 
+- [mta-discord-rpc](https://github.com/pkfln/mta-discord-rpc) - External MTA Discord Rich Presence Manager.
 - [MTA Resource Tool](https://github.com/AlexRazor1337/MTA-Resource-Tool) - Tool written on Python to help you work with MTA resources.
 - [vscode-mtalua](https://github.com/Subtixx/vscode-mtalua) - MTA functions autocompletion and highlighting for VS Code. Version from VS Code is outdated, use this instead.
 - [updated 50pSublimeText3Package](https://github.com/Vadya963/50pSublimeText3Package) - MTA functions autocompletion and highlighting for Sublime Text.
 - [MTA Resource Generator](https://github.com/matheustkn/MTA-Resource-Generator) - Simple application to create blank resource for MTA:SA. 
 - [amx](https://github.com/multitheftauto/amx) - Allows the execution of unmodified SAMP 0.3.7 gamemodes, filterscripts and plugins.
-- [MTA SA Tarantool usage example](https://forum.mtasa.com/topic/131195-tarantool-use-case-and-workaround) - usage of DODBMS Tarantool in MTA
+- [MTA SA Tarantool usage example](https://forum.mtasa.com/topic/131195-tarantool-use-case-and-workaround) - usage of DODBMS Tarantool in MTA.
