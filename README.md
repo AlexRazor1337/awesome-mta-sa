@@ -1,12 +1,20 @@
-# Awesome MTA:SA
+# Awesome MTA:SA [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-![Multi_Theft_Auto_logo](https://user-images.githubusercontent.com/26604491/137708737-c06f4d47-4017-46e8-8201-743546b42398.png)
+<p align="center">
+  <a href="https://multitheftauto.com/">
+  <img src="https://user-images.githubusercontent.com/26604491/137708737-c06f4d47-4017-46e8-8201-743546b42398.png" alt="MTA:SA"></img>
+  </a>
+</p>
 
-List of free/opensource MTA:SA resources.  
+> List of free/opensource MTA:SA resources and related tools.  
+
+Multi Theft Auto: San Andread (MTA:SA) is a multiplayer modification of Rockstar North game that adds online multiplayer functionality.
+
+---
 
 ## Contributing
 
-To add any resource just create pull request. It should be opensource or at least free.
+To add any resource just create pull request. It should be free and opensource.
 
 ## Contents 
 
@@ -36,7 +44,7 @@ To add any resource just create pull request. It should be opensource or at leas
 - [ConGuard](https://github.com/Lpsd/ConGuard) - Network/connection helper for MTA:SA.
 - [mta-discord-webhook-library](https://github.com/FilexGH/mta-discord-webhook-library) - Discord Webhook API for MTA servers.
 - [MTA-dxGUI](https://github.com/TheNormalnij/MTA-dxGUI) - Cool and powerfull dxGUI library for MTA.
-- [XLMRT](https://github.com/XaskeL/XLMRT) - MTA XaskeL Mapping ReTexture Tool 
+- [XLMRT](https://github.com/XaskeL/XLMRT) - MTA XaskeL Mapping ReTexture Tool.
 - [CRenderTarget-MTA](https://github.com/XaskeL/CRenderTarget-MTA) - RenderTarget helper lib.
 - [pAttach](https://github.com/Patrick2562/mtasa-pAttach) - Optimized bone attach using new MTA functions/events. 
 - [Beautify](https://github.com/ov-sa/Beautify-Library) -  DX based powerful UI library.
@@ -77,17 +85,17 @@ To add any resource just create pull request. It should be opensource or at leas
 ## Maps
 
 - [MTA-map mafia2](https://github.com/Vadya963/MTA-map_mafia2) - Mafia 2 map convert to MTA.
-- [JLiberty City](https://github.com/Wolfee-J/JLiberty-City) - Liberty City map for use with [MTA Stream](https://github.com/Wolfee-J/MTA-Stream)
-- [JVice City](https://github.com/Wolfee-J/MTA-Vice-City) - Vice City map for use with [MTA Stream](https://github.com/Wolfee-J/MTA-Stream)
-- [JGrid Map](https://github.com/Wolfee-J/JGrid-Map) - Grid Testing map for use with [MTA Stream](https://github.com/Wolfee-J/MTA-Stream)
-- [Alien City](https://github.com/Wolfee-J/Alien-City-MTA) - Alien City map for use with [MTA Stream](https://github.com/Wolfee-J/MTA-Stream)
-- [JGrand Carmageddon](https://github.com/Wolfee-J/JGrand-Carmageddon) - Grand Carmageddon map for use with [MTA Stream](https://github.com/Wolfee-J/MTA-Stream)
+- [JLiberty City](https://github.com/Wolfee-J/JLiberty-City) - Liberty City map for use with [MTA Stream](https://github.com/Wolfee-J/MTA-Stream).
+- [JVice City](https://github.com/Wolfee-J/MTA-Vice-City) - Vice City map for use with [MTA Stream](https://github.com/Wolfee-J/MTA-Stream).
+- [JGrid Map](https://github.com/Wolfee-J/JGrid-Map) - Grid Testing map for use with [MTA Stream](https://github.com/Wolfee-J/MTA-Stream).
+- [Alien City](https://github.com/Wolfee-J/Alien-City-MTA) - Alien City map for use with [MTA Stream](https://github.com/Wolfee-J/MTA-Stream).
+- [JGrand Carmageddon](https://github.com/Wolfee-J/JGrand-Carmageddon) - Grand Carmageddon map for use with [MTA Stream](https://github.com/Wolfee-J/MTA-Stream).
 
 ## Lua
 
 - [lume](https://github.com/rxi/lume) - Lua functions geared towards gamedev.
 - [batteries](https://github.com/1bardesign/batteries) - Reusable dependencies for games made with lua.
-- [lua-class](https://github.com/misterquestions/lua-class) - A library to add support for OOP on Lua with a really nice and elegant style 
+- [lua-class](https://github.com/misterquestions/lua-class) - A library to add support for OOP on Lua with a really nice and elegant style.
 
 ## Other
 
