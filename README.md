@@ -55,7 +55,7 @@ To add any resource just create pull request. It should be free and opensource.
 - [mtasa-git-resource-updater](https://github.com/cleoppa/mtasa-git-resource-updater) - Remotely update the system you publish on GitHub.
 - [MTA rounded rectangle](https://github.com/prndv/MTA_rounded_rectangle) - Create rounded rectangles.
 - [dgs](https://github.com/thisdp/dgs) - Thisdp's Dx Graphical User Interface System.
-- [mtasa-utilities](https://github.com/Loki214/mtasa-utilities) - Some utilities(graphics, perlin noise, sockets...).
+- [mtasa-utilities](https://github.com/Loki214/mtasa-utilities) - Some utilities(graphics, perlin noise, sockets and etc).
 - [MTA Stream](https://github.com/Wolfee-J/MTA-Stream) - MTA-SA Custom map loader.
 - [check](https://github.com/rifleh700/check) - Simple Lua/MTA argument type checking lib for MTA:SA.
 - [MTA Indicators](https://github.com/forkerer/MTA-indicators) - Indicators system written in lua, able to display hundreds of indicators without lags. 
@@ -110,4 +110,4 @@ To add any resource just create pull request. It should be free and opensource.
 - [updated 50pSublimeText3Package](https://github.com/Vadya963/50pSublimeText3Package) - MTA functions autocompletion and highlighting for Sublime Text.
 - [MTA Resource Generator](https://github.com/matheustkn/MTA-Resource-Generator) - Simple application to create blank resource for MTA:SA. 
 - [amx](https://github.com/multitheftauto/amx) - Allows the execution of unmodified SAMP 0.3.7 gamemodes, filterscripts and plugins.
-- [MTA SA Tarantool usage example](https://forum.mtasa.com/topic/131195-tarantool-use-case-and-workaround) - usage of DODBMS Tarantool in MTA.
+- [MTA SA Tarantool usage example](https://forum.mtasa.com/topic/131195-tarantool-use-case-and-workaround) - Example of usage of DODBMS Tarantool in MTA.
