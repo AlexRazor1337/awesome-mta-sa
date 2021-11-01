@@ -17,6 +17,7 @@ Multi Theft Auto: San Andread (MTA:SA) is a multiplayer modification of Rockstar
 - [Resources](#resources)
 - [Shaders](#shaders)
 - [Libs and utils](#libs-and-utils)
+- [Resource collections](#resource-collections)
 - [Gamemodes](#gamemodes)
 - [Maps](#maps)
 - [Lua](#lua)
