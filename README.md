@@ -65,6 +65,7 @@ To add any resource just create pull request. It should be free and opensource.
 - [SA Menu](https://github.com/httpRick/SA-Menu) - GTA:SA like menu.
 - [MTASA NativeUI](https://github.com/Allerek/MTASA-NativeUI) - GTA:V style menus.
 - [custom-data](https://github.com/srslyyyy/custom-data) - Custom element data system based on Lua tables.
+- [MTA SAMP OBJ](https://github.com/Fernando-A-Rocha/MTA-SAMP-OBJ) - load SAMP maps(supporting maps exported with TextureStudio and even with custom models)
 
 ## Resource collections
 
