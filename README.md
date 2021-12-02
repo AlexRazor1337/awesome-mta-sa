@@ -66,6 +66,7 @@ To add any resource just create pull request. It should be free and opensource.
 - [MTASA NativeUI](https://github.com/Allerek/MTASA-NativeUI) - GTA:V style menus.
 - [custom-data](https://github.com/srslyyyy/custom-data) - Custom element data system based on Lua tables.
 - [MTA SAMP OBJ](https://github.com/Fernando-A-Rocha/MTA-SAMP-OBJ) - load SAMP maps(supporting maps exported with TextureStudio and even with custom models)
+- [mta-add-models](https://github.com/Fernando-A-Rocha/mta-add-models) - lets you add new models to your server.
 
 ## Resource collections
 
