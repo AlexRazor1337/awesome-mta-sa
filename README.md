@@ -35,6 +35,7 @@ To add any resource just create pull request. It should be free and opensource.
 - [gradmin](https://github.com/rifleh700/gradmin) - Alternative admin panel for MTA:SA.
 - [mtasa remastered hud](https://github.com/Haxardous/mtasa-remastered-hud) - HD remastered original HUD.
 - [draw-distance](https://gitlab.com/IIYAMA12/draw-distance) - Improves the draw distance of all your resources that make use of map files. 
+- [mta-cl_performance](https://github.com/jmcdutra/mta-cl_performance) - performance monitor similar to FiveM.
 
 ## Shaders
 
