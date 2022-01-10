@@ -118,3 +118,4 @@ To add any resource just create pull request. It should be free and opensource.
 - [amx](https://github.com/multitheftauto/amx) - Allows the execution of unmodified SAMP 0.3.7 gamemodes, filterscripts and plugins.
 - [MTA SA Tarantool usage example](https://forum.mtasa.com/topic/131195-tarantool-use-case-and-workaround) - Example of usage of DODBMS Tarantool in MTA.
 - [mtasa-docker](https://github.com/4O4/mtasa-docker) - Unofficial Docker image for MTA:SA game server.
+- [MTA Club](https://mtaclub.eu/) - unofficial set of MTA utilities and tools.
