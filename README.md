@@ -88,6 +88,7 @@ To add any resource just create pull request. It should be free and opensource.
 - [Drift Paradise](https://github.com/alcoholiclobster/drift-paradise-mta) - Racing roleplay gamemode for Multi Theft Auto.
 - [Rust MTA](https://github.com/alcoholiclobster/rust-mta) - Rust inspired gamemode.
 - [mtadayz](https://github.com/NullSystemWorks/mtadayz) - Official MTA:DayZ Repository.
+- [Dystopia: The Incident](https://github.com/Zorangeorge/MTA-Dystopia-The-Incident) - A story-driven zombie post-apocalyptic MMO-RPG for the MTA San Andreas platform.
 
 ## Maps
 
