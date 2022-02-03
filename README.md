@@ -41,6 +41,7 @@ To add any resource just create pull request. It should be free and opensource.
 
 - [MTA-VHS](https://github.com/gta191977649/MTA-VHS) - A VHS effect shader.
 - [MTA-PS2](https://github.com/gta191977649/MTA-PS2) - PS2-like shader for MTA:SA.
+- [MTASA-SkyGfx](https://github.com/gta191977649/MTASA-SkyGfx) - A project that brings the classic aesthetic look to MTA.
 
 ## Libs and utils
 
