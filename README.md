@@ -25,7 +25,7 @@ Multi Theft Auto: San Andread (MTA:SA) is a multiplayer modification of Rockstar
 
 ## Contributing
 
-To add any resource just create pull request. If you are adding a resource, it should be free and opensource.
+To add any resource just create a pull request. If you are adding a resource, it should be free and opensource.
 
 ## Resources
 
