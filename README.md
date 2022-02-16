@@ -69,6 +69,7 @@ To add any resource just create a pull request. If you are adding a resource, it
 - [custom-data](https://github.com/srslyyyy/custom-data) - Custom element data system based on Lua tables.
 - [MTA SAMP OBJ](https://github.com/Fernando-A-Rocha/MTA-SAMP-OBJ) - load SAMP maps(supporting maps exported with TextureStudio and even with custom models)
 - [mta-add-models](https://github.com/Fernando-A-Rocha/mta-add-models) - lets you add new models to your server.
+- [MTA-BinaryDataTools](https://github.com/forkerer/MTA-BinaryDataTools) - This resource gives ability to work on binary data formats.
 
 ## Resource collections
 
@@ -120,4 +121,4 @@ To add any resource just create a pull request. If you are adding a resource, it
 - [amx](https://github.com/multitheftauto/amx) - Allows the execution of unmodified SAMP 0.3.7 gamemodes, filterscripts and plugins.
 - [MTA SA Tarantool usage example](https://forum.mtasa.com/topic/131195-tarantool-use-case-and-workaround) - Example of usage of DODBMS Tarantool in MTA.
 - [mtasa-docker](https://github.com/4O4/mtasa-docker) - Unofficial Docker image for MTA:SA game server.
-- [MTA Club](https://mtaclub.eu/) - unofficial set of MTA utilities and tools.
+- [MTA Club](https://mtaclub.eu/) - Unofficial set of MTA utilities and tools.
