@@ -67,9 +67,10 @@ To add any resource just create a pull request. If you are adding a resource, it
 - [SA Menu](https://github.com/httpRick/SA-Menu) - GTA:SA like menu.
 - [MTASA NativeUI](https://github.com/Allerek/MTASA-NativeUI) - GTA:V style menus.
 - [custom-data](https://github.com/srslyyyy/custom-data) - Custom element data system based on Lua tables.
-- [MTA SAMP OBJ](https://github.com/Fernando-A-Rocha/MTA-SAMP-OBJ) - load SAMP maps(supporting maps exported with TextureStudio and even with custom models)
-- [mta-add-models](https://github.com/Fernando-A-Rocha/mta-add-models) - lets you add new models to your server.
+- [MTA SAMP OBJ](https://github.com/Fernando-A-Rocha/MTA-SAMP-OBJ) - Load SAMP maps(supporting maps exported with TextureStudio and even with custom models)
+- [mta-add-models](https://github.com/Fernando-A-Rocha/mta-add-models) - Lets you add new models to your server.
 - [MTA-BinaryDataTools](https://github.com/forkerer/MTA-BinaryDataTools) - This resource gives ability to work on binary data formats.
+- [Bootloader](https://github.com/botder/mtasa-bootloader) - A resource for server bootloading and resource keep-alive. 
 
 ## Resource collections
 
