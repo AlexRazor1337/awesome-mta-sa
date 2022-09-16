@@ -124,3 +124,4 @@ To add any resource just create a pull request. If you are adding a resource, it
 - [MTA SA Tarantool usage example](https://forum.mtasa.com/topic/131195-tarantool-use-case-and-workaround) - Example of usage of DODBMS Tarantool in MTA.
 - [mtasa-docker](https://github.com/4O4/mtasa-docker) - Unofficial Docker image for MTA:SA game server.
 - [MTA Club](https://mtaclub.eu/) - Unofficial set of MTA utilities and tools.
+- [MTA SA Map Cut Tool](https://github.com/marty000123/Marty-s-MTA-SA-Map-Cut-Tool) - Tool to split an area from an existing map.
