@@ -36,6 +36,7 @@ To add any resource just create a pull request. If you are adding a resource, it
 - [mtasa remastered hud](https://github.com/Haxardous/mtasa-remastered-hud) - HD remastered original HUD.
 - [draw-distance](https://gitlab.com/IIYAMA12/draw-distance) - Improves the draw distance of all your resources that make use of map files. 
 - [mta-cl_performance](https://github.com/jmcdutra/mta-cl_performance) - performance monitor similar to FiveM.
+- [mta-add-models](https://github.com/Fernando-A-Rocha/mta-add-models) - easy loading of new models, custom editor to place new objects.
 
 ## Shaders
 
