@@ -73,6 +73,7 @@ To add any resource just create a pull request. If you are adding a resource, it
 - [mta-add-models](https://github.com/Fernando-A-Rocha/mta-add-models) - Lets you add new models to your server.
 - [MTA-BinaryDataTools](https://github.com/forkerer/MTA-BinaryDataTools) - This resource gives ability to work on binary data formats.
 - [Bootloader](https://github.com/botder/mtasa-bootloader) - A resource for server bootloading and resource keep-alive. 
+- [3D-editor](https://github.com/Derbosik/3DEditor) - Easy-to-use tool for editing 3D objects positions.
 
 ## Resource collections
 
