@@ -129,3 +129,4 @@ To add any resource just create a pull request. If you are adding a resource, it
 - [MTA Club](https://mtaclub.eu/) - Unofficial set of MTA utilities and tools.
 - [MTA SA Map Cut Tool](https://github.com/marty000123/Marty-s-MTA-SA-Map-Cut-Tool) - Tool to split an area from an existing map.
 - [Node.js MTA SDK](https://github.com/zFelpszada/mta-sdk) - Node.js integration with MTA server.
+- [Navigation module](https://github.com/tederis/mtasa-detour) - The server extension for MTA:SA that adds a navigation mesh
